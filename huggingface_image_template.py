@@ -75,7 +75,8 @@ while(1):
     # image.show()
 
     # Give the image a chance to load in the trinket output before asking for input again.
-    time.sleep(1)
+    # If you're using the Trinket online IDE, uncomment this line:
+    # time.sleep(1)
 
 
 
